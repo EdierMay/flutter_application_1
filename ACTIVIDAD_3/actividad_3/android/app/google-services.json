@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103962969762",
+    "project_id": "doctorapp3b",
+    "storage_bucket": "doctorapp3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103962969762:android:e748ffc6e6963c4deeb9fb",
+        "android_client_info": {
+          "package_name": "com.example.actividad_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChSx4SqEi3e13bKz7l1gs8VsnPVfERGZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
